@@ -1,4 +1,4 @@
-# SSR фреймворк Astro
+# SSR фреймворк Astro (Islands Architecture)
 
 
 Используемые технологии:
